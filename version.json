@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "download": "https://github.com/nhuantinIDM/IDM_NhuanTin/releases/download/v7.5.1/IDM_NhuanTin.exe",
+  "force_update": false,
+  "release_date": "22-06-2026",
+  "changelog": [
+    "🔥 Add dailymotion.com",
+    "🛠 Fix extension"
+  ]
+}
