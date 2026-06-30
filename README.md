@@ -1,7 +1,7 @@
-# 4K-Dowload-Ubuntu-Linux Free 100%
+# 4K-Dowload- Free 100%
 Ứng dụng này do mình và AI tạo ra cho vui thôi anh em nào thích thì dùng không thích đùng ném đá nhé, 
 mình không có thượng mại bán buôn gì hết. ai dùng thì tải file 7z về giải nén ra lệnh cài yt-dlp kèm sẵn curl_cffi:<br>
-pip3 install --user --break-system-packages "yt-dlp[default]" <br>tải extension lên trình duyệt của mình sau đó chạy 4K-Dowload-Ubuntu-Linux tận hưởng thôi<br>
+pip3 install --user --break-system-packages "yt-dlp[default]" <br>tải extension lên trình duyệt của mình sau đó chạy IDM_NhuanTin.exe tận hưởng thôi<br>
 Ứng dụng hổ trợ tải các trang dưới:
 | Feature | Support |
 |---|---|
@@ -30,19 +30,20 @@ pip3 install --user --break-system-packages "yt-dlp[default]" <br>tải extensio
 Tải được tất cả các đuôi:
 3GP 7Z AAC ACE AIF APK ARJ ASF AVI BIN BZ2 EXE GZ GZIP IMG ISO LZH M4A M4V MKV MOV MP3 MP4 MPA MPE MPEG MPG MSI MSU OGG OGV PDF PLJ PPS PPT QT R0* R1* RA RAR RM RMVB SEA SIT SITX TAR TIF TIFF WAV WMA WMV Z ZIP
 Do mới phát chuyển chưa Test được hết anh em nào dùng báp lỗi gì Comments lại mình Fix lại nhé
-<img width="1048" height="577" alt="Ảnh chụp màn hình 2026-05-23 062026" src="https://github.com/user-attachments/assets/966ae7f0-bfa3-4681-ab02-ad5186545423" /><br>
-<img width="724" height="563" alt="Ảnh chụp màn hình (1)" src="https://github.com/user-attachments/assets/00596ba3-72b5-4196-89d1-7561f9680d2b" /><br>
+<img width="870" height="485" alt="Vùng chọn_001" src="https://github.com/user-attachments/assets/8e7598a7-530b-476b-82d8-2e649b817f28" /><br>
+<img width="335" height="457" alt="Vùng chọn_002" src="https://github.com/user-attachments/assets/30a51164-7cb2-4a30-a87d-2021afc4538a" /><br>
 
-
-## Hướng dẫn cài đặt tiện ích mở rộng chưa đóng gói trong Chrome/Edge <br>
-Firefox/Edge Bấm Nút button vào Web Store để cài <br>
-[![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--on-orange?logo=firefoxbrowser)](https://addons.mozilla.org/vi/firefox/addon/4k-downloader-nhu%E1%BA%ADnt%C3%ADn/)
-[![Edge Add-on](https://img.shields.io/badge/Microsoft-Edge-blue?logo=microsoftedge)](https://microsoftedge.microsoft.com/addons)
-[![GitHub](https://img.shields.io/badge/GitHub-Source-black?logo=github)](https://github.com/nhuantinIDM/4K-Dowload-Ubuntu-Linux)
+## Hướng dẫn cài đặt tiện ích mở rộng chưa đóng gói trong Chrome <br>
+Firefox/Edge cài bằng Web Stone <br> 
+[![Firefox Add-on](https://img.shields.io/badge/Install-Firefox-orange?logo=firefoxbrowser)](https://addons.mozilla.org/vi/firefox/addon/4k-downloader-nhu%E1%BA%ADnt%C3%ADn/)
+[![Edge Add-on](https://img.shields.io/badge/Install-Edge-blue?logo=microsoftedge)](https://microsoftedge.microsoft.com/addons/detail/...)
+[![GitHub](https://img.shields.io/badge/Source-GitHub-black?logo=github)](https://github.com/nhuantinIDM/4K-Dowload-Ubuntu-Linux)
 1. Mở Cài đặt Chrome từ ba dấu chấm ở góc trên bên phải và chọn Quản lý tiện ích mở rộng , hoặc nhập chrome://extensions/vào thanh địa chỉ.<br>
-<img width="870" height="485" alt="Vùng chọn_001" src="https://github.com/user-attachments/assets/b5141d4f-993a-4e87-b74f-391f217aa18a" /><br>
+<img width="1200" height="616" alt="manage-extension-1200x616" src="https://github.com/user-attachments/assets/6c162bb2-e7b1-449c-89c4-79b8594dc5e1" /><br>
+
 2. Kích hoạt Chế độ Nhà phát triển bằng cách sử dụng nút chuyển đổi ở góc trên bên phải của trang.<br>
-<img width="335" height="457" alt="Vùng chọn_002" src="https://github.com/user-attachments/assets/018fa967-79dd-4d2b-b187-a849529c2325" /><br>
+<img width="1200" height="675" alt="extension-1200x675" src="https://github.com/user-attachments/assets/49324a26-d744-48c0-aa67-b024bb813406" /><br>
+
 3. Nhấp vào Tải thư mục chưa giải nén và chọn thư mục mở rộng đã giải nén.<br>
 <img width="1200" height="681" alt="load-unpacked-1200x681" src="https://github.com/user-attachments/assets/49a88f2e-d768-4473-985f-3c8b58746cfc" /><br>
 4. Điều hướng đến vị trí trên hệ thống của bạn nơi thư mục tiện ích mở rộng đã được giải nén được đặt và mở nó ra.
@@ -56,6 +57,6 @@ Hi vọng hướng dẫn này sẽ hữu ích với bạn! Vui lòng chia sẻ p
 
 Nếu bạn vẫn còn bất kỳ vấn đề/thắc mắc nào liên quan, vui lòng tạo yêu cầu hỗ trợ tại bộ  [Nhuận Tín](https://github.com/nhuantinIDM/IDM_NhuanTin/) .<br>
 
-Nếu có bất kỳ thắc mắc nào, vui lòng liên hệ với chúng tôi qua  [Contact](mailto:vansontv82@gmail.com?subject=4K%20Downloader%20Support)<br>
+Nếu có bất kỳ thắc mắc nào, vui lòng liên hệ với chúng tôi qua  [email hỗ trợ](nhuantincqta@gmail.com) .<br>
 
 ### Cảm ơn vì đã chú ý!!<br>
