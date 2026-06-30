@@ -1,6 +1,9 @@
 # 4K-Dowload- Free 100%
 Ứng dụng này do mình và AI tạo ra cho vui thôi anh em nào thích thì dùng không thích đùng ném đá nhé, 
 mình không có thượng mại bán buôn gì hết. ai dùng thì tải file 7z về giải nén ra lệnh cài yt-dlp kèm sẵn curl_cffi:<br>
+```Cài
+pip3 install --user --break-system-packages "yt-dlp[default]"
+```
 pip3 install --user --break-system-packages "yt-dlp[default]" <br>tải extension lên trình duyệt của mình sau đó chạy IDM_NhuanTin.exe tận hưởng thôi<br>
 Ứng dụng hổ trợ tải các trang dưới:
 | Feature | Support |
@@ -57,6 +60,6 @@ Hi vọng hướng dẫn này sẽ hữu ích với bạn! Vui lòng chia sẻ p
 
 Nếu bạn vẫn còn bất kỳ vấn đề/thắc mắc nào liên quan, vui lòng tạo yêu cầu hỗ trợ tại bộ  [Nhuận Tín](https://github.com/nhuantinIDM/IDM_NhuanTin/) .<br>
 
-Nếu có bất kỳ thắc mắc nào, vui lòng liên hệ với chúng tôi qua email hỗ trợ. [Contact](mailto:vansontv82@gmail.com?subject=4K%20Downloader%20Support)
+Nếu có bất kỳ thắc mắc nào, vui lòng liên hệ với chúng tôi qua email hỗ trợ. [Email](mailto:vansontv82@gmail.com?subject=4K%20Downloader%20Support)
 
 ### Cảm ơn vì đã chú ý!!<br>
