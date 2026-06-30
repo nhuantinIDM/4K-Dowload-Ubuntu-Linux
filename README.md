@@ -57,6 +57,6 @@ Hi vọng hướng dẫn này sẽ hữu ích với bạn! Vui lòng chia sẻ p
 
 Nếu bạn vẫn còn bất kỳ vấn đề/thắc mắc nào liên quan, vui lòng tạo yêu cầu hỗ trợ tại bộ  [Nhuận Tín](https://github.com/nhuantinIDM/IDM_NhuanTin/) .<br>
 
-Nếu có bất kỳ thắc mắc nào, vui lòng liên hệ với chúng tôi qua  [email hỗ trợ](nhuantincqta@gmail.com) .<br>
+Nếu có bất kỳ thắc mắc nào, vui lòng liên hệ với chúng tôi qua email hỗ trợ[Contact](mailto:vansontv82@gmail.com?subject=4K%20Downloader%20Support)
 
 ### Cảm ơn vì đã chú ý!!<br>
