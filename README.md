@@ -1,7 +1,7 @@
 # 4K-Dowload- Free 100%
 Ứng dụng này do mình và AI tạo ra cho vui thôi anh em nào thích thì dùng không thích đùng ném đá nhé, 
 mình không có thượng mại bán buôn gì hết. ai dùng thì tải file 7z về giải nén ra lệnh cài yt-dlp kèm sẵn curl_cffi:<br>
-```Cài
+```bash
 pip3 install --user --break-system-packages "yt-dlp[default]"
 ```
 <br>tải extension lên trình duyệt của mình sau đó chạy IDM_NhuanTin.exe tận hưởng thôi<br>
