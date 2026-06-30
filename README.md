@@ -1,7 +1,7 @@
 # 4K-Dowload-Ubuntu-Linux Free 100%
 Ứng dụng này do mình và AI tạo ra cho vui thôi anh em nào thích thì dùng không thích đùng ném đá nhé, 
 mình không có thượng mại bán buôn gì hết. ai dùng thì tải file 7z về giải nén ra lệnh cài yt-dlp kèm sẵn curl_cffi:<br>
-pip3 install --user --break-system-packages "yt-dlp[default]" <br>tải extension lên trình duyệt của mình sau đó chạy IDM_NhuanTin.exe tận hưởng thôi<br>
+pip3 install --user --break-system-packages "yt-dlp[default]" <br>tải extension lên trình duyệt của mình sau đó chạy 4K-Dowload-Ubuntu-Linux tận hưởng thôi<br>
 Ứng dụng hổ trợ tải các trang dưới:
 | Feature | Support |
 |---|---|
@@ -40,11 +40,9 @@ Firefox/Edge Bấm Nút button vào Web Store để cài <br>
 [![Edge Add-on](https://img.shields.io/badge/Microsoft-Edge-blue?logo=microsoftedge)](https://microsoftedge.microsoft.com/addons)
 [![GitHub](https://img.shields.io/badge/GitHub-Source-black?logo=github)](https://github.com/nhuantinIDM/4K-Dowload-Ubuntu-Linux)
 1. Mở Cài đặt Chrome từ ba dấu chấm ở góc trên bên phải và chọn Quản lý tiện ích mở rộng , hoặc nhập chrome://extensions/vào thanh địa chỉ.<br>
-<img width="1200" height="616" alt="manage-extension-1200x616" src="https://github.com/user-attachments/assets/6c162bb2-e7b1-449c-89c4-79b8594dc5e1" /><br>
-
+<img width="870" height="485" alt="Vùng chọn_001" src="https://github.com/user-attachments/assets/b5141d4f-993a-4e87-b74f-391f217aa18a" /><br>
 2. Kích hoạt Chế độ Nhà phát triển bằng cách sử dụng nút chuyển đổi ở góc trên bên phải của trang.<br>
-<img width="1200" height="675" alt="extension-1200x675" src="https://github.com/user-attachments/assets/49324a26-d744-48c0-aa67-b024bb813406" /><br>
-
+<img width="335" height="457" alt="Vùng chọn_002" src="https://github.com/user-attachments/assets/018fa967-79dd-4d2b-b187-a849529c2325" /><br>
 3. Nhấp vào Tải thư mục chưa giải nén và chọn thư mục mở rộng đã giải nén.<br>
 <img width="1200" height="681" alt="load-unpacked-1200x681" src="https://github.com/user-attachments/assets/49a88f2e-d768-4473-985f-3c8b58746cfc" /><br>
 4. Điều hướng đến vị trí trên hệ thống của bạn nơi thư mục tiện ích mở rộng đã được giải nén được đặt và mở nó ra.
