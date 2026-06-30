@@ -35,6 +35,7 @@ Do mới phát chuyển chưa Test được hết anh em nào dùng báp lỗi g
 
 
 ## Hướng dẫn cài đặt tiện ích mở rộng chưa đóng gói trong Chrome/Edge <br>
+Firefox cài bằng link này <br> https://addons.mozilla.org/vi/firefox/addon/4k-downloader-nhu%E1%BA%ADnt%C3%ADn/<br>
 1. Mở Cài đặt Chrome từ ba dấu chấm ở góc trên bên phải và chọn Quản lý tiện ích mở rộng , hoặc nhập chrome://extensions/vào thanh địa chỉ.<br>
 <img width="1200" height="616" alt="manage-extension-1200x616" src="https://github.com/user-attachments/assets/6c162bb2-e7b1-449c-89c4-79b8594dc5e1" /><br>
 
