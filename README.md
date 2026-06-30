@@ -4,7 +4,7 @@ mình không có thượng mại bán buôn gì hết. ai dùng thì tải file 
 ```Cài
 pip3 install --user --break-system-packages "yt-dlp[default]"
 ```
-pip3 install --user --break-system-packages "yt-dlp[default]" <br>tải extension lên trình duyệt của mình sau đó chạy IDM_NhuanTin.exe tận hưởng thôi<br>
+<br>tải extension lên trình duyệt của mình sau đó chạy IDM_NhuanTin.exe tận hưởng thôi<br>
 Ứng dụng hổ trợ tải các trang dưới:
 | Feature | Support |
 |---|---|
