@@ -34,7 +34,7 @@ Do mới phát chuyển chưa Test được hết anh em nào dùng báp lỗi g
 <img width="335" height="457" alt="Vùng chọn_002" src="https://github.com/user-attachments/assets/30a51164-7cb2-4a30-a87d-2021afc4538a" /><br>
 
 ## Hướng dẫn cài đặt tiện ích mở rộng chưa đóng gói trong Chrome <br>
-Firefox/Edge cài bằng Web Stone <br> 
+Firefox/Edge Bấm Button cài bằng Web Stone <br> 
 [![Firefox Add-on](https://img.shields.io/badge/Install-Firefox-orange?logo=firefoxbrowser)](https://addons.mozilla.org/vi/firefox/addon/4k-downloader-nhu%E1%BA%ADnt%C3%ADn/)
 [![Edge Add-on](https://img.shields.io/badge/Install-Edge-blue?logo=microsoftedge)](https://microsoftedge.microsoft.com/addons/detail/...)
 [![GitHub](https://img.shields.io/badge/Source-GitHub-black?logo=github)](https://github.com/nhuantinIDM/4K-Dowload-Ubuntu-Linux)
@@ -57,6 +57,6 @@ Hi vọng hướng dẫn này sẽ hữu ích với bạn! Vui lòng chia sẻ p
 
 Nếu bạn vẫn còn bất kỳ vấn đề/thắc mắc nào liên quan, vui lòng tạo yêu cầu hỗ trợ tại bộ  [Nhuận Tín](https://github.com/nhuantinIDM/IDM_NhuanTin/) .<br>
 
-Nếu có bất kỳ thắc mắc nào, vui lòng liên hệ với chúng tôi qua email hỗ trợ[Contact](mailto:vansontv82@gmail.com?subject=4K%20Downloader%20Support)
+Nếu có bất kỳ thắc mắc nào, vui lòng liên hệ với chúng tôi qua email hỗ trợ. [Contact](mailto:vansontv82@gmail.com?subject=4K%20Downloader%20Support)
 
 ### Cảm ơn vì đã chú ý!!<br>
