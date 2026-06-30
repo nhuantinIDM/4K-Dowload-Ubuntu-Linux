@@ -37,7 +37,7 @@ Do mới phát chuyển chưa Test được hết anh em nào dùng báp lỗi g
 ## Hướng dẫn cài đặt tiện ích mở rộng chưa đóng gói trong Chrome/Edge <br>
 Firefox/Edge Bấm Nút button vào Web Store để cài <br>
 [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--on-orange?logo=firefoxbrowser)](https://addons.mozilla.org/vi/firefox/addon/4k-downloader-nhu%E1%BA%ADnt%C3%ADn/)
-[![Microsoft Edge](https://img.shields.io/badge/Microsoft-Edge-blue?logo=microsoftedge)](https://microsoftedge.microsoft.com/addons)
+[![Edge Add-on](https://img.shields.io/badge/Microsoft-Edge-blue?logo=microsoftedge)](https://microsoftedge.microsoft.com/addons)
 [![GitHub](https://img.shields.io/badge/GitHub-Source-black?logo=github)](https://github.com/nhuantinIDM/4K-Dowload-Ubuntu-Linux)
 1. Mở Cài đặt Chrome từ ba dấu chấm ở góc trên bên phải và chọn Quản lý tiện ích mở rộng , hoặc nhập chrome://extensions/vào thanh địa chỉ.<br>
 <img width="1200" height="616" alt="manage-extension-1200x616" src="https://github.com/user-attachments/assets/6c162bb2-e7b1-449c-89c4-79b8594dc5e1" /><br>
