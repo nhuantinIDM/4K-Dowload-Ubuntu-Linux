@@ -35,7 +35,7 @@ Do mới phát chuyển chưa Test được hết anh em nào dùng báp lỗi g
 
 
 ## Hướng dẫn cài đặt tiện ích mở rộng chưa đóng gói trong Chrome/Edge <br>
-Firefox/Edge cài bằng link này <br>
+Firefox/Edge Bấm Nút button vào Web Store để cài <br>
 [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--on-orange?logo=firefoxbrowser)](https://addons.mozilla.org/vi/firefox/addon/4k-downloader-nhu%E1%BA%ADnt%C3%ADn/)
 [![Microsoft Edge](https://img.shields.io/badge/Microsoft-Edge-blue?logo=microsoftedge)](https://microsoftedge.microsoft.com/addons)
 [![GitHub](https://img.shields.io/badge/GitHub-Source-black?logo=github)](https://github.com/nhuantinIDM/4K-Dowload-Ubuntu-Linux)
